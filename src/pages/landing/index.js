@@ -1,8 +1,10 @@
 import React from 'react'
+import Button from '@material-ui/core/Button'
 
 
 const Landing = () =>(
-<h1>holass</h1>
-
+   
+        <Button variant = "contained"> press me </Button>
+   
 )
 export default Landing;
